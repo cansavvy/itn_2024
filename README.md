@@ -2,7 +2,7 @@
 
 This repository contains an analysis of an acute myeloid leukemia sample dataset from [Shih et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28193779/), pre-processed by [refinebio](https://www.refine.bio/). The dataset includes RNA-sequencing results for 19 acute myeloid leukemia (AML) model mice under controlled treatment conditions.
 
-## Getting Started
+## How to re-run the analysis 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
