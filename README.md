@@ -23,7 +23,7 @@ Clone the repository to your local machine:
 git clone https://github.com/<your-github-username>/aml-heatmap.git
 ```
 
-Navigate to the cloned repository:
+Navigate to the cloned repository
 
 ```bash
 cd aml-heatmap
